@@ -4,8 +4,8 @@
 
 I am a Data analytics and business intelligence enthusiast who takes pride in building models that translate data points into business insights. I have analytical experience in working with predictive modeling, data processing, visualisations and dashboarding, machine learning, deep learning, NLP, text analytics and computer vision.
 
-[<img src="https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=black"/>](https://public.tableau.com/app/profile/ryash)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ryash/)
+My Tableau - [<img src="https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=black"/>](https://public.tableau.com/app/profile/ryash)
+My LinkedIN - [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/ryash/)
 
 
 <!--
